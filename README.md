@@ -43,7 +43,7 @@ MyBlog is a full-stack MERN (MongoDB, Express, React, Node.js) web application t
 3. Create a `.env` file in the root directory and add the following environment variables:
 
    ```bash
-   PORT=3001
+   PORT=3000
    MONGODB_URI=your_mongodb_uri
    JWT_SECRET=your_jwt_secret
    ```
