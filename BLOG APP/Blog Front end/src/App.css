@@ -1,0 +1,41 @@
+.categories {
+    display: flex;
+    justify-content: space-between;
+    padding-top: 20px;
+    padding-bottom: 15px;
+    background-color: #fff;
+    color: #fff;
+  }
+  
+  .category {
+    flex: 0 1 calc(16.66% - 10px);
+    padding: 10px;
+    background-color: #555;
+    text-align: center;
+    border-radius: 5px;
+    cursor: pointer;
+  }
+  
+  .category:hover {
+    background-color: #777;
+  }
+  
+  /* Add additional styling as needed */
+  
+  .row {
+    display: flex;
+    justify-content: center;
+  }
+  
+  .blog-items {
+    display: flex;
+    flex-wrap: wrap;
+    max-width: 100%; /* Ensures items wrap within their container */
+  }
+  
+  .blog-item {
+    flex: 0 0 25%; /* Four items in a row (25% width for each) */
+    max-width: 25%; /* Adjust as necessary for spacing or margins */
+    /* Other styling for blog items */
+  }
+  
