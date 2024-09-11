@@ -1,6 +1,6 @@
 # MyBlog App
 
-MyBlog is a full-stack MERN (MongoDB, Express, React, Node.js) web application that allows users to create, edit, and delete blog posts. Users can also view blogs by category and contact the site owners through the contact form. This project uses JWT (JSON Web Tokens) for authentication.
+MyBlog is a full-stack MERN web application that allows users to create, edit, and delete blog posts. It features blog categorization for easy navigation and a contact form for user inquiries. The application uses JWT (JSON Web Tokens) for secure user authentication and session management. Built with MongoDB, Express, React, and Node.js, MyBlog offers a robust and dynamic blogging platform, integrating modern technologies for a streamlined and secure user experience.
 
 ## Table of Contents
 
